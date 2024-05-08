@@ -1,0 +1,64 @@
+.collage{
+    display: flex;
+    margin: 0 auto;
+    width: 1000px;
+   
+}
+.collage img{
+    width: 225px;
+    height: 225px;
+    margin-right: 10px;
+}
+
+.collagedos{
+    display: flex;
+    margin: 0 auto;
+    width: 1000px;
+}
+
+.collagedos img{
+    width: 225px;
+    height: 225px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+.collagetres{
+    display: flex;
+    margin: 0 auto;
+    width: 1000px;
+}
+
+.collagetres img{
+    width: 225px;
+    height: 225px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+.collagecuatro{
+    display: flex;
+    margin: 0 auto;
+    width: 1000px;
+}
+
+.collagecuatro img{
+    width: 225px;
+    height: 225px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+body{
+    background-color: #733d7a;
+}
+
+h1{
+    position: absolute; /* Posicionamiento absoluto */
+    top: 45%; /* Establece top al 50% */
+    left: 48%; /* Establece left al 50% */
+    transform: translate(-50%, -50%); /* Centrar elemento */
+    font-size: 100px;
+    color: #ad0707;
+    font-weight: 900;
+}

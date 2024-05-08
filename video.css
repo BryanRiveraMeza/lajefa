@@ -1,0 +1,13 @@
+.video{
+    position: absolute; /* Posicionamiento absoluto */
+    top: 45%; /* Establece top al 50% */
+    left: 48%; /* Establece left al 50% */
+    transform: translate(-50%, -50%); /* Centrar elemento */
+}
+
+body{
+    background-color: #e5fcfc;
+}
+p{
+    text-align: center;
+}
